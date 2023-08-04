@@ -1,5 +1,7 @@
 # TATA_Data_Visualisation
 Empowering Business with Effective Insights virtual experience program sponsored by TATA.
+![TATA](https://github.com/ChiaZen/TATA_Data_Visualisation/assets/108150096/d69b9536-4e7c-4397-8f97-38784d69b356)
+
 
 ## Background information on your task
 An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
